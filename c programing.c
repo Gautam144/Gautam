@@ -2,4 +2,5 @@
 int main()
 {
  printf("hello word");
+ return0;
 }
